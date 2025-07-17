@@ -4,7 +4,7 @@
   🇫🇷 Chef de projet AMOA, passionné d’automatisation, d’outillage interne et de data.<br>
   Je me reconvertis progressivement vers un rôle plus technique, en lien avec ma formation d’origine.<br>
   🇬🇧 Currently working as a Product Owner, now sharpening my tech skills to shift towards a more hands-on technical role — closer to my original background.<br>
-  I’m passionate about automation, scripting, internal tooling, and data-driven workflows.
+  I’m passionate about automation, scripting, internal tooling, and data project.
 </p>
 
 ---
